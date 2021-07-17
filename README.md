@@ -1,4 +1,4 @@
-<p style="text-align: center"><img src="https://storage.googleapis.com/eurosign-public/eurosign-dark-300px.png" alt="Eurosign logo"></p>
+<p style="text-align: center" align="center"><img src="https://storage.googleapis.com/eurosign-public/eurosign-dark-300px.png" alt="Eurosign logo"></p>
 
 # Eurosign API – OAuth2 code samples
 
