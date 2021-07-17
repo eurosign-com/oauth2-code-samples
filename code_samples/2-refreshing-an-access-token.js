@@ -1,5 +1,5 @@
 /**
- * This sample is intended to help you understand how to get an access token (and a new refresh token) from a
+ * This sample file is intended to help you understand how to get an access token (and a new refresh token) from a
  * previously saved refresh token.
  * The refresh token is a one-time use token: when a new access token is issued from a refresh token, this refresh token
  * is deactivated, and you will have to use the new refresh token to get an access token again.

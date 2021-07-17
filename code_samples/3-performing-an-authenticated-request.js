@@ -7,6 +7,11 @@
 const fetch = require('node-fetch');
 // End of NodeJS requirements
 
+/**
+ * Retrieves the information of the user authenticated by the access token
+ * @param accessToken
+ * @return {Promise<Object>}
+ */
 async function getCurrentUser(accessToken) {
     const eurosignResponse = await fetch('https://api.eurosign.com/v2/current-user', {
         method: 'GET',
